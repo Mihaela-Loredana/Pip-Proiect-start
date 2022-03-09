@@ -14,6 +14,7 @@ public class Start {
         A a2 = new A("buna");
         System.out.println("Branch 4_1");
         System.out.println("Branch 4_2");
+        System.out.println("Mesaj verificare - Loredana");
 	}
 
 }
