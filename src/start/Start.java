@@ -10,6 +10,8 @@ public class Start {
         System.out.println("Buna Loredana, ma bucur sa te vad pe repo ul meu!");
         System.out.println("Pot da push??");
         A a = new A();
+        A a1 = new A("salut");
+        A a2 = new A("buna");
 	}
 
 }
