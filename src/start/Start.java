@@ -14,6 +14,12 @@ public class Start {
         A a2 = new A("buna");
         System.out.println("Branch 4_1");
         System.out.println("Branch 4_2");
+<<<<<<< HEAD
+=======
+        D d = new D();
+        System.out.println("Mesaj verificare - Loredana");
+
+>>>>>>> a073483d3ca21a7502e2ab083ee41af14f73e0b3
 	}
 
 }
