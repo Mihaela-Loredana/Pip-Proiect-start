@@ -12,11 +12,8 @@ public class Start {
         A a = new A();
         A a1 = new A("salut");
         A a2 = new A("buna");
-<<<<<<< HEAD
         System.out.println("Branch 4_1");
-=======
         System.out.println("Branch 4_2");
->>>>>>> branch_4
 	}
 
 }
